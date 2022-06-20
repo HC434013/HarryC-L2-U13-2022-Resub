@@ -19,7 +19,7 @@ The website had consistency in all of these aspects. It stuck to the same few fo
 
 5. Being interesting and including multiple pieces of embedded multimedia 
 
-The site contained plenty of images but not much variety in media format (videos are embedded in resubmission) and while interest is subjective, I think branding the website around a cat is interesting in an absurdist sense.
+The site contained plenty of images but not much variety in media format (YouTube video reviews are embedded in resubmission) and while interest is subjective, I think branding the website around a cat is interesting in an absurdist sense.
 
 6. Interactive features (e.g. a customer inquiry form)
 
