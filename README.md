@@ -1,6 +1,4 @@
 # Website homepage path: /src/index.html
-## Specific Documentation Paths
-
 
 ## Directory Tree
 ```
@@ -8,19 +6,30 @@
 │
 ├───doc
 │   ├───design
-│   │       alternate-design-2-storyboard.png
-│   │       alternate-design-2-storyboard.psd
-│   │       colour schemes.md
-│   │       design overview.md
-│   │       design-1-rough-storyboard.png
-│   │       design-2-rough-storyboard.png
-│   │       img-src.md
-│   │       real-world-design-comparison.md
-│   │       stakeholders-developers.md
-│   │       typography.md
+│   │   ├───Task 1
+│   │   │       (TASK 1) comparison.md
+│   │   │       pihut.png
+│   │   │       pihut2.png
+│   │   │       sourceforge.png
+│   │   │       sourceforge2.png
+│   │   │
+│   │   └───Task 2-3
+│   │           (TASK 2)colour-schemes.md
+│   │           (TASK 2)design-overview.md
+│   │           (TASK 2)stakeholders-developers.md
+│   │           (TASK 2)typography.md
+│   │           (TASK 2-3)img-src.md
+│   │           (TASK 2-3)testing.md
+│   │           alternate-design-2-storyboard.png
+│   │           alternate-design-2-storyboard.psd
+│   │           design-1-rough-storyboard.png
+│   │           design-2-rough-storyboard.png
 │   │
 │   └───review
-│           peer review.md
+│           (TASK 4)design evaluation and justification.md
+│           (TASK 4)peer-review.md
+│           design-1-rough-storyboard.png
+│           YCC.png
 │
 └───src
     │   about.html
@@ -46,6 +55,10 @@
         │
         └───img
                 002_galaxyzfold3_5g_phantomblack_back115.jpg
+                2021-03-06 04_37_22-Window.jpg
+                2021-07-18 20_22_19-Window.jpg
+                2021-08-27 16_42_19-Window.jpg
+                2022-03-25 16_24_48-Window.jpg
                 2067-w320h320.png
                 2223-w320h320.png
                 3310-02.png
@@ -84,3 +97,4 @@
                 XiaomiMi11Lite5GNE-full-product-front-600.png
                 zfold-02.png
                 zfold-03.png
+```
