@@ -1,10 +1,8 @@
 # Testing Plan (conceived during development)
 ### Testers
-- Me, an overseas friend
+I tested the website solely on my own, using a chromium browser configured at 100% zoom on a 1920x2080 display
 
-Me - Used a popular chromium based browser, configured at 100% zoom on a 1920x1080 resolution display
 
-Friend - Also used a chromium browser, configured at 100% zoom on a 1280x720 resolution display
 ### Routine
  My testing sessions performed numerously throughout development consisted of interacting with every interactable element of the site in the way a typical end user would. These tests were done to ensure functionality and consistency in UX/UI design for the complete project.
 
